@@ -32,7 +32,7 @@ https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
 - What is the probability of a candidate to work for the company (leaving current job)?
 
 ## Needs of this project
-- data cleaning/processing
-- data visualization
-- model building
-- model evaluation
+- Data cleaning/processing
+- Data visualization
+- Model building
+- Model evaluation
